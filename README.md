@@ -1,10 +1,11 @@
 ### Hi there 👋, I'm Michel 
 
-<div>
-    <a href="https://github.com/OnLeonidas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OnLeonidas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnLeonidas&layout=compact&langs_count=7&theme=dark"/>
+ <div>
+    <a href="https://github.com/onleonidas"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=onleonidas&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onleonidas&hide=Jupyter%20Notebook,VHDL,verilog,makefile,shell,css&layout=compact&langs_count=10&theme=midnight-purple"/>
 </div>
+  
   
 <ul>
   <li>Instagram: <a href="https://www.instagram.com/onleonidas/">onleonidas</a></li>
