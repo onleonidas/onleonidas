@@ -1,6 +1,8 @@
-## Hi! i'm Michel
- <div style="display: inline_block">
-  <a href="https://github.com/OnLeonidas">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=OnLeonidas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnLeonidas&layout=compact&langs_count=3&theme=dark"/>
-</div>
+![alt text](https://github.com/OnLeonidas/onleonidas/blob/main/background.png)
+Hi, There! I'm Michel, a computer science student and graphic designer. I'm studying to be a software engineer and here you will be able to find the projects that will be part of this journey :)
+
+### Detailed Informations
+- **University:** Federal University of Pernambuco
+- **Age:** 21
+- **Living in:** Recife/PE, Brazil
+- **Skills in Progress:** Python and C++
