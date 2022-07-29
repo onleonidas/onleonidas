@@ -6,4 +6,4 @@ Hi, There! I'm Michel, a computer science student and graphic designer. I'm stud
 - **University:** Federal University of Pernambuco
 - **Age:** 21
 - **Living in:** Recife/PE, Brazil
-- **Skills in Progress:** Python and C++
+
