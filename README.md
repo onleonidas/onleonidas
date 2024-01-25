@@ -6,6 +6,5 @@
 ### Networks
 <div>
 <a href="https://www.linkedin.com/in/michel-leonidas-89223421b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-<a href="https://medium.com/@michelleonidas81"><img src="https://img.shields.io/badge/Medium-ffbe0b?style=for-the-badge&logo=medium&logoColor=black"></img></a>
 <a href="https://www.behance.net/onleonidas"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"></img></a>
 </div>
