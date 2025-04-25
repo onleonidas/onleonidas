@@ -1,6 +1,5 @@
 ### More Informations
 - **University:** Federal University of Pernambuco
-- **Age:** 23
 - **Living in:** Recife/PE, Brazil
 
 ### Networks
